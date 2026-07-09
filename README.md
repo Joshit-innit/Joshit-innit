@@ -13,7 +13,7 @@
 B.Tech student passionate about Machine Learning, Deep Learning, Backend Development, and Data Structures &amp; Algorithms. I enjoy building scalable applications with Java and Spring Boot, solving algorithmic problems, and exploring how AI systems are designed, deployed, and optimized for real-world use.
 
 🌱 &nbsp;I'm currently learning **Deep Learning, System Design, AWS, Machine Learning model deployment (MLOps), and scalable backend architectures.**  
-⚡ &nbsp;Fun fact: **Did you know that banana are berries!!! That's weird**
+⚡ &nbsp;Fun fact: **Did you know that bananas are berries!!! That's weird**
 
 ### 🛠️ Tech Stack
 

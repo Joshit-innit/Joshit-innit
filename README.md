@@ -8,12 +8,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=700&height=44&lines=Veni%2C%20vidi%2C%20vici%20-%20Julius%20Caesar;Persistence%20is%20always%20better%20than%20motivation" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+## 🚀 About Me
 
-B.Tech student passionate about Machine Learning, Deep Learning, Backend Development, and Data Structures &amp; Algorithms. I enjoy building scalable applications with Java and Spring Boot, solving algorithmic problems, and exploring how AI systems are designed, deployed, and optimized for real-world use.
+Passionate B.Tech student focused on building intelligent, scalable, and production-ready software solutions. My primary interests lie in **Machine Learning, Deep Learning, Backend Engineering, and Data Structures & Algorithms**. I enjoy transforming complex problems into efficient, maintainable systems using **Java, Spring Boot, and modern software engineering practices**.
 
-🌱 &nbsp;I'm currently learning **Deep Learning, System Design, AWS, Machine Learning model deployment (MLOps), and scalable backend architectures.**  
-⚡ &nbsp;Fun fact: **Did you know that bananas are berries!!! That's weird**
+Beyond coding, I'm deeply interested in system architecture, distributed computing, and the technologies that power large-scale applications. I continuously strive to strengthen both my problem-solving skills and software engineering expertise by building practical projects and exploring cutting-edge technologies.
+
+### 🌱 Currently Exploring
+- 💹 Financial Systems & FinTech Engineering
+- 🧠 Deep Learning & AI
+- 🏗️ Microservices Architecture
+- ⚙️ System Design & Distributed Systems
+- ☁️ AWS & Cloud Infrastructure
+- 🚀 Scalable Backend Engineering
 
 ### 🛠️ Tech Stack
 
